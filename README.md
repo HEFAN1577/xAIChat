@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/6920eeb4-668c-4e64-8d22-acb027485fa2)
 # xAIChat
 # 安装和运行步骤
-
+填写.env文件下的apiKEY
 ## 1. 安装Node.js
 首先，需要安装Node.js环境。
 
